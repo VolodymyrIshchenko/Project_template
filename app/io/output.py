@@ -2,7 +2,7 @@ def print_text(text):
     """This function print a text to console
 
     Example:
-        >>> def print_text(text):
+        #>>> def print_text(text):
         text
 
     Args:

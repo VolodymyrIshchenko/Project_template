@@ -20,7 +20,7 @@ def read_file(path):
     with help of Python functions
 
     Example:
-        >>> with open(path, 'r') as file:
+        #>>> with open(path, 'r') as file:
         file content
 
     Returns:
@@ -35,7 +35,7 @@ def file_csv_pandas(path):
     Pandas helps covers stings of data to data frame.
 
     Example:
-        >>> file_csv_pandas(path)
+        #>>> file_csv_pandas(path)
         data frame
 
     Args:
